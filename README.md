@@ -8,3 +8,5 @@ ORIGIN_AIRPORT, DEST_AIRPORT, DEP_DELAY, ARR_DELAY, CANCELLED, AIRLINE. Οι
 φοιτητές καλούνται να υλοποιήσουν δύο διαφορετικές προσεγγίσεις ανάλυσης: με Spark RDD API και
 Spark DataFrame API και να αξιολογήσουν επιδόσεις, εκφραστικότητα και αποδοτικότητα των δύο
 προσεγγίσεων
+
+Το αρχείο «flight_delay_spark_1.ipynb» περιέχει την υλοποίηση της προσέγγισης με Spark RDD API και το αρχείο «flight_delay_spark_2.ipynb» περιέχει την υλοποίηση της προσέγγισης με Spark DataFrame API. Το αρχείο «Αναφορά.pdf» περιέχει την ανάλυση των ευρημάτων που απαιτείται από την εργασία.
